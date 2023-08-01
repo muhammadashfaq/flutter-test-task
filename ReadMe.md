@@ -15,6 +15,7 @@ Task
  - Mock networking in a flutter
  - State Management and Responsive design will be required
  - Use the movies API to integrate them in the project
+ - Project structure, Networking, and State management, Custom widgets will be a plus point.
 
 
 ## Screenshots
