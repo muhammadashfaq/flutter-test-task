@@ -17,6 +17,13 @@ Task
  - Use the movies API to integrate them in the project
  - Project structure, Networking, and State management, Custom widgets will be a plus point.
 
+## Delivery instructions
+ - Make a public repository and push the code
+ - Make sure to provide the instructions to run the project
+ - provide the repository link
+
+## Task Deadline
+ - 3 days
 
 ## Screenshots
 
